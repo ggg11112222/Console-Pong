@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console PingPong", "Console PingPong\Console PingPong.csproj", "{18456AB6-25D4-4EDB-BF77-99DE8B5FEA08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18456AB6-25D4-4EDB-BF77-99DE8B5FEA08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18456AB6-25D4-4EDB-BF77-99DE8B5FEA08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18456AB6-25D4-4EDB-BF77-99DE8B5FEA08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18456AB6-25D4-4EDB-BF77-99DE8B5FEA08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33B284D6-DC64-4211-8DFC-4458C01C162F}
+	EndGlobalSection
+EndGlobal
